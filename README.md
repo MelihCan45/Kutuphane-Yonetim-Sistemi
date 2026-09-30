@@ -29,7 +29,7 @@ Kurulum ve Çalıştırma
 Projeyi kendi bilgisayarınızda derleyip çalıştırmak için sisteminizde bir C derleyicisi (örneğin GCC) kurulu olmalıdır.
 
 Repoyu bilgisayarınıza klonlayın:
-git clone https://github.com/MelihCan45/Kutuphane-Yonetim-Sistemi.git
+https://github.com/MelihCan45/Kutuphane-Yonetim-Sistemi.git
 
 cd Kutuphane-Yonetim-Sistemi.git
 
